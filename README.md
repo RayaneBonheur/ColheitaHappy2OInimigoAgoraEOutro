@@ -35,7 +35,7 @@ Esses são as principais critérios utilizados no desenvolvimento do jogo:
 ## Autores do projeto 
 
 
-Este é o time de alunos, da graduação de Ciência da Cmputação, responsáveis pela idealização e desenvolvimento do jogo:
+Esses são o time dos alunos, da graduação de Ciência da Computação, responsáveis pela idealização e desenvolvimento do jogo:
 
 | [<img src="https://avatars.githubusercontent.com/u/163336809?v=4" width=115><br><sub>Felipe Guizzi</sub>](https://github.com/felipeguizzi) | [<img src="https://avatars.githubusercontent.com/u/142040746?v=4"     width=115><br><sub>Gabriel Braga</dub>](https://github.com/GABRIELBRAGA03) | 
 [<img src="https://avatars.githubusercontent.com/u/81262430?v=4" width=115><br><sub>Jessica Nascimento</sub>](https://github.com/jessnascimento) |
